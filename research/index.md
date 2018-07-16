@@ -33,7 +33,7 @@ img="mm.png"
 
 > ---
 
-> {% include bracket-link.md text="github" exturl="https://github.com" url="/vjysd/nerve-fiber-modeling" %} {% include bracket-link.md text="embc 2017" exturl="https://doi.org" url="/10.1109/EMBC.2017.8037701" %}
+> {% include bracket-link.md text="github" exturl="https://github.com" url="/vjysd/nerve-fiber-modeling" %} {% include bracket-link.md text="paper" exturl="https://doi.org" url="/10.1109/EMBC.2017.8037701" %}
 
 > ### Nerve fiber modeling
 > {% include project-stub.md  
@@ -47,7 +47,7 @@ img="nerve.png"
 
 > ---
 
-> {% include bracket-link.md text="github" exturl="https://github.com" url="/vjysd/goal-directed-sensorimotor-transformations" %} {% include bracket-link.md text="paper" exturl="http://neurophotonics.spiedigitallibrary.org" url="/article.aspx?articleid=2588714" %} {% include bracket-link.md text="poster" exturl="" url="/assets/files/poster.pdf" %}
+> {% include bracket-link.md text="github" exturl="https://github.com" url="/vjysd/goal-directed-sensorimotor-transformation" %} {% include bracket-link.md text="paper" exturl="http://neurophotonics.spiedigitallibrary.org" url="/article.aspx?articleid=2588714" %} {% include bracket-link.md text="poster" exturl="" url="/assets/files/poster.pdf" %}
 
 > ### Goal directed sensorimotor transformations
 > {% include project-stub.md  
@@ -107,7 +107,7 @@ img="emote.png"
 
 > ---
 
-> {% include bracket-link.md text="documentation" exturl="" url="/assets/files/elisa_doc.pdf" %} {% include bracket-link.md text="poster" exturl="" url="/assets/files/erg_poster.pdf" %}
+> {% include bracket-link.md text="documentation" exturl="" url="/assets/files/erg.pdf" %} {% include bracket-link.md text="poster" exturl="" url="/assets/files/erg_poster.pdf" %}
 
 > ### Electrophysiology of human eye
 > {% include project-stub.md  

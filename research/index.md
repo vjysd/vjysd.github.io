@@ -33,7 +33,7 @@ img="mm.png"
 
 > ---
 
-> {% include bracket-link.md text="github" exturl="https://github.com" url="/vjysd/nerve-fiber-modeling" %} {% include bracket-link.md text="paper" exturl="https://doi.org" url="/10.1109/EMBC.2017.8037701" %}
+> {% include bracket-link.md text="github" exturl="https://github.com" url="/vjysd/nerve-fiber-modeling" %} {% include bracket-link.md text="paper 1" exturl="" url="/assets/files/embc2018_1.pdf" %} {% include bracket-link.md text="paper 2" exturl="" url="/assets/files/embc2018_1.pdf" %} {% include bracket-link.md text="paper 3" exturl="https://doi.org" url="/10.1109/EMBC.2017.8037701" %}
 
 > ### Nerve fiber modeling
 > {% include project-stub.md  

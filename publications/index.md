@@ -13,9 +13,9 @@ Ren, M., Chen, Q., **Sadashivaiah, V.**, Li, Y., Zhu, S., Mezeivtch, K., Hu, Z.,
 
 **Sadashivaiah, V.**, Sacre P., Guan Y., Anderson W. S., Sarma S. V.; Modeling the interactions between stimulation and physiologically induced APs in a mammalian nerve fiber: dependence on frequency and fiber diameter. *in review*
 
-**Sadashivaiah, V.**, Sacré, P., Guan, Y., Anderson, W. S., Sarma, S. V.; Studying the Interactions in a Mammalian Nerve Fiber: A Functional Modeling Approach, 40th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Honalulu, Hawaii, 2018. *in press*
+**Sadashivaiah, V.**, Sacré, P., Guan, Y., Anderson, W. S., Sarma, S. V.; Studying the Interactions in a Mammalian Nerve Fiber: A Functional Modeling Approach, 40th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Honalulu, Hawaii, 2018. *in press*, [link](/assets/files/embc2018_1.pdf)
 
-**Sadashivaiah, V.**, Sacré, P., Guan, Y., Anderson, W. S., Sarma, S. V.; Selective Relay of Afferent Sensory Induced Action Potentials from Peripheral Nerve to Brain and the Effects of Electrical Stimulation, 40th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Honalulu, Hawaii, 2018. *in press*
+**Sadashivaiah, V.**, Sacré, P., Guan, Y., Anderson, W. S., Sarma, S. V.; Selective Relay of Afferent Sensory Induced Action Potentials from Peripheral Nerve to Brain and the Effects of Electrical Stimulation, 40th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Honalulu, Hawaii, 2018. *in press*, [link](/assets/files/embc2018_2.pdf)
 
 Kyriakatos A., **Sadashivaiah, V.**, Zhang Y., Motta A., Auffret M., Petersen C. H.; Voltage-sensitive dye imaging of mouse neocortex during a whisker detection task, Neurophotonics. [link](https://doi.org/10.1117/1.NPh.4.3.031204)
 
@@ -23,7 +23,7 @@ Kyriakatos A., **Sadashivaiah, V.**, Zhang Y., Motta A., Auffret M., Petersen C.
 
 Gunnarsdottir, K., **Sadashivaiah, V.**, Kerr, M., Santaniello, S., Sarma, S. V.; Using Demographic and Time Series Physiological Features to Classify Sepsis in the Intensive Care Unit, 38th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Florida, 2016. [link](https://doi.org/10.1109/EMBC.2016.7590817)
 
-as, A., Swedish, T., Wahi, A., Moufarrej, M., Noland, M., Gurry, T., Michel, E. M., Aksel, D., Wagh, S., **Sadashivaiah, V.**, Zhang, X., Raskar, R.; Mobile phone based mini-spectrometer for rapid screening of skin cancer. Proc. SPIE 9482, Next-Generation Spectroscopic Technologies VIII, 94820M (June 3, 2015). [link](https://doi.org/10.1117/12.2182191)
+Das, A., Swedish, T., Wahi, A., Moufarrej, M., Noland, M., Gurry, T., Michel, E. M., Aksel, D., Wagh, S., **Sadashivaiah, V.**, Zhang, X., Raskar, R.; Mobile phone based mini-spectrometer for rapid screening of skin cancer. Proc. SPIE 9482, Next-Generation Spectroscopic Technologies VIII, 94820M (June 3, 2015). [link](https://doi.org/10.1117/12.2182191)
 
 ---
 

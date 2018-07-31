@@ -5,13 +5,13 @@ title: Vijay's Publications
 
 # Publications
 
-**Sadashivaiah, V.**, Goldman, A., Ulrich, B., Radulescu, E., Breman, K. F., Mattay, V. S., Weinberger, D. R., Chen, Q.; Using machine learning to identify novel neuroimaging phenotypes associated with cognitive dysfunction in Schizophrenia. *in preparation*
+**Sadashivaiah, V.**, Goldman, A., Ulrich, B., Radulescu, E., Breman, K. F., Mattay, V. S., Weinberger, D. R., Chen, Q.; Using machine learning to identify novel neuroimaging phenotypes associated with cognitive dysfunction in Schizophrenia, NeuroImage *in preparation*
  
-**Sadashivaiah, V.**, Goldman, A., Ulrich, B., Straub, R. E., Calliott, J. H., Breman, K. F., Mattay, V. S., Weinberger, D. R., Chen, Q.; Exploring Shared Brain Cognitive Networks and the Related Genetic Components using Three-way Parallel ICA. *in preparation*
+**Sadashivaiah, V.**, Goldman, A., Ulrich, B., Straub, R. E., Calliott, J. H., Breman, K. F., Mattay, V. S., Weinberger, D. R., Chen, Q.; Exploring Shared Brain Cognitive Networks and the Related Genetic Components using Three-way Parallel ICA, Biological Psychiatry *in preparation*
 
-Ren, M., Chen, Q., **Sadashivaiah, V.**, Li, Y., Zhu, S., Mezeivtch, K., Hu, Z.,  Qin, LS L., Li, X., Tian, Q., Parades, D., Zhu, J., Wang, K. H., Weinberger, D. R., Yang, F.; Abnormal hippocampal-mPFC synchrony in the KCNH2-3.1 transgenic mouse model. *in preparation*
+Ren, M., Chen, Q., **Sadashivaiah, V.**, Li, Y., Zhu, S., Mezeivtch, K., Hu, Z.,  Qin, LS L., Li, X., Tian, Q., Parades, D., Zhu, J., Wang, K. H., Weinberger, D. R., Yang, F.; Abnormal hippocampal-mPFC synchrony in the KCNH2-3.1 transgenic mouse model, Nature Medicine *in preparation*
 
-**Sadashivaiah, V.**, Sacre P., Guan Y., Anderson W. S., Sarma S. V.; Modeling the interactions between stimulation and physiologically induced APs in a mammalian nerve fiber: dependence on frequency and fiber diameter. *in review*
+**Sadashivaiah, V.**, Sacre P., Guan Y., Anderson W. S., Sarma S. V.; Modeling the interactions between stimulation and physiologically induced APs in a mammalian nerve fiber: dependence on frequency and fiber diameter, Journal of Computational Neuroscience *in revision*
 
 **Sadashivaiah, V.**, Sacré, P., Guan, Y., Anderson, W. S., Sarma, S. V.; Studying the Interactions in a Mammalian Nerve Fiber: A Functional Modeling Approach, 40th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Honalulu, Hawaii, 2018. *in press*, [link](/assets/files/embc2018_1.pdf)
 

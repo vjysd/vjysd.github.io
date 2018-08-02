@@ -14,7 +14,7 @@ My research interest lies in developing computational models and analyzing large
 
 title="lieber_ml" 
 
-description="I'm exploring novel data driven methods to analyze neuroimaging data from developmental brain disorders. Specifically, I'm building learning models to identify underlying biological pathways in Schizophrenia. Developed models are based on Deep Neural Network and Support Vector Machine frameworks." 
+description="I'm exploring novel data driven methods to analyze neuroimaging data from developmental brain disorders. Specifically, I'm building learning models to identify underlying biological pathways in Schizophrenia. Developed models are based on Deep Neural Network (CNN's) and Support Vector Machine frameworks." 
 
 img="ml.png"
 %}

@@ -11,7 +11,7 @@ I&rsquo;m a [Research Associate](https://www.libd.org/team/vijay-sadashivaiah/) 
                                     
 Before coming to Hopkins, I spent a summer at [École Polytechnique Fédérale de Lausanne](https://epfl.ch), where I worked on neural circuits involved in goal directed sensorimotor transformations with [Dr. Carl Petersen](https://people.epfl.ch/carl.petersen/bio?lang=en&cvlang=en). During my junior year, I was a visiting student at [Massachusetts Institute of Technology](http://web.mit.edu/), where I worked on ultra-fast imaging with [Dr. Ramesh Raskar](http://raskar.info).
 
-I was born in [Bangalore, India](https://en.wikipedia.org/wiki/Bangalore) but spent most of my time growing up in [Tumkur](https://en.wikipedia.org/wiki/Tumkur). I enjoy rock climbing, hiking and doing taekwondo. This is my [NeuroTree](https://neurotree.org/neurotree/tree.php?pid=184853). 
+I was born in [Bangalore, India](https://en.wikipedia.org/wiki/Bangalore) but spent most of my time growing up in [Tumkur](https://en.wikipedia.org/wiki/Tumkur). I enjoy rock climbing, hiking and backpacking. I've hiked (or climbed or backpacked) in Hawaii, South Korea, Switzerland, India and mainland USA. This is my [NeuroTree](https://neurotree.org/neurotree/tree.php?pid=184853). 
 
 ## Philosophy
 

@@ -9,7 +9,7 @@ title: Vijay's Publications
  
 **Sadashivaiah, V.**, Goldman, A., Ulrich, B., Straub, R. E., Calliott, J. H., Breman, K. F., Mattay, V. S., Weinberger, D. R., Chen, Q.; Exploring Shared Brain Cognitive Networks and the Related Genetic Components using Three-way Parallel ICA, Biological Psychiatry (*in preparation*)
 
-Ren, M., Chen, Q., **Sadashivaiah, V.**, Li, Y., Zhu, S., Mezeivtch, K., Hu, Z.,  Qin, LS L., Li, X., Tian, Q., Parades, D., Zhu, J., Wang, K. H., Weinberger, D. R., Yang, F.; Abnormal hippocampal-mPFC synchrony in the KCNH2-3.1 transgenic mouse model, Nature Medicine (*in preparation*)
+Ren, M., Hu, Z., Chen, Q., Jaffe, A., Li, Y., **Sadashivaiah, V.**, Li, Y., Zhu, S., Rajpurohit, N., Shin, J. H., Xia, W., Jia, Y., Wu, J., Qin, S. L., Li, X., Zhu, J., Tian, Q., Parades, D., Zhang, F., Wang, K. H., Mattay, V. S., Callicott, J. H., Berman, K. F., Weinberger, D. R., Yang, F.; KCNH2-3.1 mediates aberrant complement activation to impair hippocampal-medial prefrontal circuitry associated with working memory deficits, Nature Medicine. (*in preparation*)
 
 **Sadashivaiah, V.**, Sacre P., Guan Y., Anderson W. S., Sarma S. V.; Modeling the interactions between stimulation and physiologically induced APs in a mammalian nerve fiber: dependence on frequency and fiber diameter, Journal of Computational Neuroscience (*in revision*)
 

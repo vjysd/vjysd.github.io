@@ -11,13 +11,13 @@ title: Vijay's Publications
 
 Ren, M., Hu, Z., Chen, Q., Jaffe, A., Li, Y., **Sadashivaiah, V.**, Li, Y., Zhu, S., Rajpurohit, N., Shin, J. H., Xia, W., Jia, Y., Wu, J., Qin, S. L., Li, X., Zhu, J., Tian, Q., Parades, D., Zhang, F., Wang, K. H., Mattay, V. S., Callicott, J. H., Berman, K. F., Weinberger, D. R., Yang, F.; KCNH2-3.1 mediates aberrant complement activation to impair hippocampal-medial prefrontal circuitry associated with working memory deficits, Journal of Clinical Investigation. (*in review*)
 
-**Sadashivaiah, V.**, Sacre P., Guan Y., Anderson W. S., Sarma S. V.; Modeling the interactions between stimulation and physiologically induced APs in a mammalian nerve fiber: dependence on frequency and fiber diameter, Journal of Computational Neuroscience (*in press*)
+**Sadashivaiah, V.**, Sacre P., Guan Y., Anderson W. S., Sarma S. V.; Modeling the interactions between stimulation and physiologically induced APs in a mammalian nerve fiber: dependence on frequency and fiber diameter, Journal of Computational Neuroscience, 2018. [link](https://doi.org/10.1007/s10827-018-0703-y)
 
 **Sadashivaiah, V.**, Sacré, P., Guan, Y., Anderson, W. S., Sarma, S. V.; Studying the Interactions in a Mammalian Nerve Fiber: A Functional Modeling Approach, 40th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Honalulu, Hawaii, 2018. [link](/assets/files/embc2018_1.pdf)
 
 **Sadashivaiah, V.**, Sacré, P., Guan, Y., Anderson, W. S., Sarma, S. V.; Selective Relay of Afferent Sensory Induced Action Potentials from Peripheral Nerve to Brain and the Effects of Electrical Stimulation, 40th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Honalulu, Hawaii, 2018. [link](/assets/files/embc2018_2.pdf)
 
-Kyriakatos A., **Sadashivaiah, V.**, Zhang Y., Motta A., Auffret M., Petersen C. H.; Voltage-sensitive dye imaging of mouse neocortex during a whisker detection task, Neurophotonics. [link](https://doi.org/10.1117/1.NPh.4.3.031204)
+Kyriakatos A., **Sadashivaiah, V.**, Zhang Y., Motta A., Auffret M., Petersen C. H.; Voltage-sensitive dye imaging of mouse neocortex during a whisker detection task, Neurophotonics, 2017. [link](https://doi.org/10.1117/1.NPh.4.3.031204)
 
 **Sadashivaiah, V.**, Sacré, P., Guan, Y., Anderson, W. S., Sarma, S. V.; Electrical neurostimulation of a mammalian nerve fibers: A probabilistic versus mechanistic approach, 39th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, Jeju Island, South Korea, 2017. [link](https://doi.org/10.1109/EMBC.2017.8037701)
 

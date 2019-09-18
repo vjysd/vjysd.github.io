@@ -5,7 +5,7 @@ title: Vijay's Research
 
 # Research
 
-My research interest lies in developing computational models and analyzing large datasets, typically related to neuroscience. I use mathematical & programming tools to achieve this.
+My research interest lies in developing computational models and analyzing large datasets, typically related to biology. I use mathematical & programming tools to achieve this.
 
 ## Computational Neuroscience
 
@@ -14,7 +14,7 @@ My research interest lies in developing computational models and analyzing large
 
 title="lieber_ml" 
 
-description="I'm exploring novel data driven methods to analyze neuroimaging data from developmental brain disorders. Specifically, I'm building learning models to identify underlying biological pathways in Schizophrenia. Developed models are based on Deep Neural Network (CNN's) and Support Vector Machine frameworks." 
+description="I'm exploring novel data driven methods to analyze neuroimaging, genetic and physiological data. Specifically, I'm building models to identify the underlying biological pathways in Schizophrenia. Developed models are based on Deep Neural Network (CNN's) and Support Vector Machine frameworks." 
 
 img="ml.png"
 %}
@@ -26,7 +26,7 @@ img="ml.png"
 
 title="lieber_mm" 
 
-description="Multi-modal data collected for the  same subjects have become common in neuroscience research. Simultaneously studying such data may yield new information that could  not be observed in analyzing individual data. In this study, we used three-way parallel ICA to incorporate two fMRI tasks and genotype data." 
+description="Multi-modal data collected for the  same subjects have become common in neuroscience research. Simultaneously studying such data may yield new information that could not be observed in analyzing individual data. In this study, we used three-way parallel ICA to incorporate two fMRI tasks and genotype data." 
 
 img="mm.png"
 %}

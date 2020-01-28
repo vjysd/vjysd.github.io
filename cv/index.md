@@ -11,7 +11,7 @@ In addition to this info, please check out my [Research]({{site.url}}/research/)
 
 > Johns Hopkins University, *Master of Science and Engineering in Biomedical Engineering*, Institute for Computational Medicine, Neuromedical Control Systems Lab (Prof. Sridevi Sarma) - **2015-2017**
 
-> PES Institute of Technology, *Bachelor of Engineering in Electrical Engineering* - Electronics and Communication Enginnering - **2011-2015**
+> PES Institute of Technology, *Bachelor of Engineering in Electrical Engineering* - Electronics and Communication Engineering - **2011-2015**
 
 ---
 

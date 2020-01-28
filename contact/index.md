@@ -5,7 +5,7 @@ title: Vijay's Contact
 
 # Contact
 
-vjs [at] jhu [dot] edu
+vijaysadashivaiah [at] gmail [dot] com
 
 Vijay Sadashivaiah  
 Lieber Institute for Brain Development,  

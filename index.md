@@ -3,7 +3,7 @@ layout: default
 title: Vijay Sadashivaiah
 ---
 
-![Vijay]({{site.url}}/assets/images/avatar.jpg){:style="float: right;margin-right: 7px;margin-top: 7px; border-radius: 50%; width: 200px"}
+![Vijay]({{site.url}}/assets/images/avatar.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px; border-radius: 50%; width: 200px"}
 
 # Vijay Sadashivaiah
 

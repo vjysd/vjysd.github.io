@@ -2,21 +2,17 @@
 layout: default
 title: Vijay's Publications
 ---
-# Thesis
-
-*Towards Pain Control by Modeling the Interactions in a Mammalian Nerve Fiber*, Masters thesis, Johns Hopkins University, May 2017. [link](https://github.com/vjysd/thesis/blob/master/Masters_Thesis.pdf)
-
-*Transient Imaging: Seeing the Unseen*, Bachelors thesis, PES University & Massachusetts Institute of Technology, May 2015. [link](https://github.com/vjysd/thesis/blob/master/Bachelors_Thesis.pdf)
-
----
 
 # Publications
 
+## Recent
+TBA
+
 ## Journal articles
 
-<!-- **Sadashivaiah, V.**, Goldman, A., Ulrich, B., Radulescu, E., Breman, K. F., Mattay, V. S., Weinberger, D. R., Chen, Q.; Using machine learning to identify novel neuroimaging phenotypes associated with cognitive dysfunction in Schizophrenia, NeuroImage (*in preparation*) -->
- 
-**Sadashivaiah, V.**, Goldman, A., Ulrich, B., Straub, R. E., Calliott, J. H., Breman, K. F., Mattay, V. S., Weinberger, D. R., Chen, Q.; Exploring Shared Brain Cognitive Networks and the Related Genetic Components using Three-way Parallel ICA, Biological Psychiatry (*in preparation*)
+**Sadashivaiah, V.**, Tippani, M., Page, S. C., Kwon, SH, Bach, S. V., Bharadwaj, R. A., Hyde, T. M., Kleinman, J. E., Jaffe, A. E., Maynard, K.R.; SUFI: An automated approach to spectral unmixing of fluorescent biological images, 2021. *Biorxiv*
+
+Tran, M. N., Maynard, K. R., Spangler, A., Torres, L. C., **Sadashivaiah, V.**, Tippani, M., ... & Jaffe, A. E.; Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain, 2021. *Neuron*
 
 Ren, M., Hu, Z., Chen, Q., Jaffe, A., Li, Y., **Sadashivaiah, V.**, Li, Y., Zhu, S., Rajpurohit, N., Shin, J. H., Xia, W., Jia, Y., Wu, J., Qin, S. L., Li, X., Zhu, J., Tian, Q., Parades, D., Zhang, F., Wang, K. H., Mattay, V. S., Callicott, J. H., Berman, K. F., Weinberger, D. R., Yang, F.; KCNH2-3.1 mediates aberrant complement activation to impair hippocampal-medial prefrontal circuitry associated with working memory deficits, Molecular Psychiatry. [link](https://doi.org/10.1038/s41380-019-0530-1)
 
@@ -50,5 +46,13 @@ Ren, M., Chen, Q., **Sadashivaiah, V.**, Li, Y., Zhu, S., Mezeivtch, K., Hu, Z.,
 **Sadashivaiah, V.**.,  Kyriakatos A.,  Zhang Y.,  Motta A.,  Auffret M.,  Petersen C. H.; Neural Circuits for goal-directed Sensorimotor Transformations, SRP and SUR Summer Research Symposium, EPFL School of Life Sciences, Lausanne, Switzerland, 2015. *Poster*
 
 Pavan, K. R., Rao, S. A., Rao, V. V., Bongale, V. A., **Sadashivaiah, V.**; Real Time Non-Invasive Cardiac Health Monitoring System,  International Conference on Emergency Medical Service Systems - Innovation & Entrepreneurship in Healthcare, AIIMS, New Delhi, India. October 2013. *Oral*
+
+---
+
+# Thesis
+
+*Towards Pain Control by Modeling the Interactions in a Mammalian Nerve Fiber*, Masters thesis, Johns Hopkins University, May 2017. [link](https://github.com/vjysd/thesis/blob/master/Masters_Thesis.pdf)
+
+*Transient Imaging: Seeing the Unseen*, Bachelors thesis, PES University & Massachusetts Institute of Technology, May 2015. [link](https://github.com/vjysd/thesis/blob/master/Bachelors_Thesis.pdf)
 
 ---

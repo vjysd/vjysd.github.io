@@ -5,7 +5,8 @@ title: Vijay's Research
 
 # Research
 
-My research interest lies in developing computational models and analyzing large datasets, typically related to biology. I use mathematical & programming tools to achieve this.
+## Machine Learning
+TBA
 
 ## Computational Neuroscience
 

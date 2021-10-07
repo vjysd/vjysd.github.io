@@ -8,8 +8,7 @@ title: Vijay's Contact
 vijaysadashivaiah [at] gmail [dot] com
 
 Vijay Sadashivaiah  
-Staff Scientist in Computational Biology,  
-Lieber Institute for Brain Development,  
-855 N. Wolfe Street,  
-Johns Hopkins Medical Institute,  
-Baltimore, MD 21205  
+PhD Student,  
+Department of Computer Science,
+Rensselaer Polytechnic Institute,  
+Troy NY, 12180 

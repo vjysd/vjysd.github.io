@@ -9,6 +9,8 @@ In addition to this info, please check out my [Research]({{site.url}}/research/)
 
 ## Education
 
+> Rensselaer Polytechnic Institute, *Doctor of Philosophy in Computer Science*, Machine Learning and Artificial Intelligence - **2021-Present**
+
 > Johns Hopkins University, *Master of Science and Engineering in Biomedical Engineering*, Institute for Computational Medicine, Neuromedical Control Systems Lab (Prof. Sridevi Sarma) - **2015-2017**
 
 > PES Institute of Technology, *Bachelor of Engineering in Electrical Engineering* - Electronics and Communication Engineering - **2011-2015**
@@ -17,7 +19,9 @@ In addition to this info, please check out my [Research]({{site.url}}/research/)
 
 ## Research
 
-> Lieber Institute for Brain Development, *Staff Scientist*, Data Science and Computational Biology (Dr. Qiang Chen) - **2019-Present**
+> IBM Research, *Summer Extern*, Trustworthy AI group and Reinforcement Learning group - **Summer 2021**
+
+> Lieber Institute for Brain Development, *Staff Scientist*, Data Science and Computational Biology (Dr. Qiang Chen) - **2019-2021**
 
 > Lieber Institute for Brain Development, *Research Associate*, Data Science and Computational Biology (Dr. Qiang Chen) - **2017-2019**
 

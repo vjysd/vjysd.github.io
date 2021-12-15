@@ -7,7 +7,9 @@
       <link href="{{ site.url }}/css/syntax.css" rel="stylesheet">
 
 
+      {% if site.google_analytics and jekyll.environment == 'production' %}
       {% include analytics.html %}
+      {% endif %}
     </head>
     <body>
       <nav>

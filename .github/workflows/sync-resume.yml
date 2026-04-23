@@ -1,17 +1,12 @@
-You are incredibly close! There are just **two small changes** left to make this perfect.
-**1. Update the PDF name in the copy step**
-Since you successfully changed your root file to cv_vijay.tex, the compiler is going to spit out a file named cv_vijay.pdf. In your current script, the copy command is still looking for the old main_file_name.pdf placeholder.
-**2. Add the quotes back to the Git clone URL**
-In this version of the file, you are missing the double quotes around "$OVERLEAF_GIT_URL" that we discussed earlier. Without those quotes, Bash might throw that "Too many arguments" error again.
-Here is your fully polished and corrected workflow file. You can safely copy and paste this entire block to replace what you currently have:
-```yaml
 name: Sync Resume from Overleaf
 
 on:
   schedule:
-    # Run every day at 2 AM UTC
     - cron: '0 2 * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   sync-resume:
@@ -27,7 +22,6 @@ jobs:
         env:
           OVERLEAF_GIT_URL: ${{ secrets.OVERLEAF_GIT_URL }}
         run: |
-          # Clone the repo into the overleaf-resume directory (with quotes!)
           git clone "$OVERLEAF_GIT_URL" overleaf-resume
 
       - name: Compile LaTeX document
@@ -39,7 +33,6 @@ jobs:
       - name: Copy PDF to resume folder
         run: |
           mkdir -p resume
-          # Changed from main_file_name.pdf to cv_vijay.pdf
           cp overleaf-resume/cv_vijay.pdf resume/Sadashivaiah_Resume.pdf
 
       - name: Check for changes
@@ -55,5 +48,3 @@ jobs:
           git add resume/Sadashivaiah_Resume.pdf
           git commit -m "Update resume from Overleaf [skip ci]"
           git push
-
-```

@@ -20,11 +20,21 @@ jobs:
         env:
           OVERLEAF_GIT_URL: ${{ secrets.OVERLEAF_GIT_URL }}
         run: |
+          # Clone the repo into the overleaf-resume directory
           git clone $OVERLEAF_GIT_URL overleaf-resume
+
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v3
+        with:
+          # Change this to the actual name of your .tex file in Overleaf
+          root_file: main_file_name.tex 
+          working_directory: overleaf-resume
 
       - name: Copy PDF to resume folder
         run: |
-          cp overleaf-resume/Sadashivaiah_Industry_Resume.pdf resume/Sadashivaiah_Resume.pdf
+          mkdir -p resume
+          # Change main_file_name.pdf to match whatever your .tex file was named
+          cp overleaf-resume/main_file_name.pdf resume/Sadashivaiah_Resume.pdf
 
       - name: Check for changes
         id: check_changes

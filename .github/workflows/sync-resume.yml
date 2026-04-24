@@ -25,10 +25,11 @@ jobs:
           git clone "$OVERLEAF_GIT_URL" overleaf-resume
 
       - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v3
+        uses: xu-cheng/latex-action@v4
         with:
           root_file: cv_vijay.tex 
           working_directory: overleaf-resume
+          texlive_version: 2023
 
       - name: Copy PDF to resume folder
         run: |

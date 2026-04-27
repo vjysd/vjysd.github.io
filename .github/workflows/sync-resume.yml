@@ -2,9 +2,11 @@ name: Sync Resume from Overleaf
 
 on:
   schedule:
-    # Run every day at 2 AM UTC
     - cron: '0 2 * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   sync-resume:
@@ -20,11 +22,19 @@ jobs:
         env:
           OVERLEAF_GIT_URL: ${{ secrets.OVERLEAF_GIT_URL }}
         run: |
-          git clone $OVERLEAF_GIT_URL overleaf-resume
+          git clone "$OVERLEAF_GIT_URL" overleaf-resume
+
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: cv_vijay.tex 
+          working_directory: overleaf-resume
+          texlive_version: 2023
 
       - name: Copy PDF to resume folder
         run: |
-          cp overleaf-resume/Sadashivaiah_Industry_Resume.pdf resume/Sadashivaiah_Resume.pdf
+          mkdir -p resume
+          cp overleaf-resume/cv_vijay.pdf resume/Sadashivaiah_Resume.pdf
 
       - name: Check for changes
         id: check_changes
